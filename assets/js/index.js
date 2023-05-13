@@ -18,7 +18,7 @@ $(() => {
         // API Data
         const game = inputEl.val()
         if (game) {    
-          const key = '44ec0594d5e94b1db806b05716db6309';     
+          const key = '44ec0594d5e94b1db806b05716db6309';    
           const url = `https://api.rawg.io/api/games?search=${game}&key=${key}`;
 
           
