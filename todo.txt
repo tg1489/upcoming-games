@@ -1,0 +1,31 @@
+Can be used to find upcoming digital movie and show home releases, across the major streaming platforms
+Can be used to track Ocean Tide information for Surfers
+Can be used to find merchant availability for specific hard to find consumer products, like a PS5, etc.
+Can generate and save fun memes
+Can be used to search for Jokes by term and category;  also provides a Joke of the Day
+Features
+Semi-polished user interface with intuitive controls
+UI Components from Angular Material
+Ability to save search and/or output to local storage
+Integration with at least one 3rd party API
+Reactive forms with RxJs
+Additional Criteria
+Code hosted in Github or Bitbucket repo with commit history
+Deployed to public Url
+Configured with esLint and passing; default settings
+No Javascript or runtime errors
+Passing prod optimized build
+Required Stack
+Angular 12+ w/ Typescript
+SCSS
+Technical Requirements
+API integration via Injectable singleton service
+Shared module that exports API Service provider
+HTTP interceptors for Bearer Auth header augmentation
+Big Bonus Items
+Test coverage
+Simple email/password authentication with Auth0 and route guards
+Example of complex RxJs pipeline implementation
+Expected Timeframe
+2-5hrs without Bonus items
+No more than 8hrs
