@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
 
-div.text-green {
-    color: #198754;
+body {
+    color:#198754;
     font-family: 'Quicksand', sans-serif;
+}
+
+span {
+    color: #FFF;
 }
